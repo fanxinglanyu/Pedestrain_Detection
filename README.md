@@ -1,1 +1,1 @@
-echo“＃Pedestrain_Detection” 
+这是采用Hog和SVM的行人检测。
