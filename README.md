@@ -17,3 +17,4 @@
 
 需要的行人检测库已上传至网盘：
 链接:https://pan.baidu.com/s/1dpVLv_89MKdEO8zmzoMhVw  密码:be4u
+⚠️：png图片已经修改libpng的兼容性问题！
