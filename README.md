@@ -14,3 +14,6 @@
 5，如果需要检测生成模型的xml,可以运训test_main.cpp
 
 本机测试运行环境：mac+clion+opencv4.0
+
+需要的行人检测库已上传至网盘：
+链接:https://pan.baidu.com/s/1dpVLv_89MKdEO8zmzoMhVw  密码:be4u
