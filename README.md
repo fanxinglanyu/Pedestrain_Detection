@@ -15,7 +15,7 @@
 
 本机测试运行环境：mac+clion+opencv4.0
 
-需要的行人检测库已上传至网盘：
-链接:https://pan.baidu.com/s/1dpVLv_89MKdEO8zmzoMhVw  密码:be4u
+需要的行人检测库和封装了方法的Qt软件已上传至网盘：
+链接: https://pan.baidu.com/s/110iMqFum7WSnny13dC2LqA  密码: kw13
 
 ⚠️：png图片已经修改libpng的兼容性问题！
